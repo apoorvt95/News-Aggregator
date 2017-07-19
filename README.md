@@ -19,7 +19,12 @@ If everything run successfully. Open your browser. Type localhost:PORT_NO (Inste
 
 If you are able to see the index page then everything is running fine. 
 
-Now you can make the Website your own, Integrate Rich content provider API! (check webhose.io)
+## Tasks
+
+- [x] Create UI.
+- [x] Create Database and ER model.
+- [X] Deploy the website.
+- [ ] Use Third Party App APIs to get news. (Eg: webhose.io)
 
 ## ER Model
 ![Alt text](/ERmodel/NewsAggregator.png?raw=true "ER Model")
