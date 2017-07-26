@@ -10,7 +10,7 @@ It is a pilot project that I developed for my academic course DBMS CS-305.
 3) MySQL 
 
  **OR**
- 
+
 Install XAMPP.
 ## How to deploy the website
 
@@ -20,7 +20,9 @@ ii) Import the Database from mysql folder (Check mysql documentation to import d
 
 iii) Start Apache server and MySQL daemons.
 
-If everything run successfully. Open your browser. Type localhost:PORT_NO (Instead of PORT_NO write the port your Apache server is running).
+iv) Open your browser. Type localhost:PORT_NO in URL(Instead of PORT_NO write the port your Apache server is running).
+
+v) VIOLA! You successfully configured the website to run on your system.
 
 
 ## Tasks
