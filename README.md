@@ -1,7 +1,7 @@
 # News-Aggregator
 
 ## Objective
-It is a pilot project that I developed for my academic course DBMS CS-305. 
+It is a pilot project that I developed with my college mate for academic course DBMS CS-305. College: NIT Delhi 
 
 ## Requirements
 
